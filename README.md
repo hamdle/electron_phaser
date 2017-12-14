@@ -1,7 +1,7 @@
-## Electron Phaser
+# Electron Phaser
 
 Get phaser running in electron.
 
-# Run Project
+## Instructions
 
 electron main.js
